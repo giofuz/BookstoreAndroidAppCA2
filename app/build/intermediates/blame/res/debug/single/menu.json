@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/build/intermediates/res/merged/debug/menu/book.xml",
+        "source": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/menu/book.xml"
+    }
+]

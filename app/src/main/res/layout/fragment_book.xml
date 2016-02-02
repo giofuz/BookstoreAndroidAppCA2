@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.bookstore.app.ComputerFragment" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/computer_title_label" />
+
+        <EditText
+            android:id="@+id/computer_make_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/computer_title_hint"
+            android:paddingBottom="@dimen/activity_field_margin"
+            android:inputType="none"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/activity_field_margin"
+            android:text="@string/computer_model_label" />
+
+        <EditText
+            android:id="@+id/computer_model_editText"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="@string/computer_model_hint"
+            android:paddingBottom="@dimen/activity_field_margin"
+            android:inputType="none"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/activity_field_margin"
+            android:text="@string/computer_quantity_label" />
+
+        <EditText
+            android:id="@+id/computer_os_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/computer_os_hint"
+            android:paddingBottom="@dimen/activity_field_margin"
+            android:inputType="none"
+            android:singleLine="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/activity_field_margin"
+            android:text="@string/computer_quantity_label" />
+
+        <EditText
+            android:id="@+id/computer_quantity_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/computer_quantity_hint"
+            android:paddingBottom="@dimen/activity_field_margin"
+            android:inputType="none"
+            android:singleLine="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/activity_field_margin"
+            android:text="@string/computer_price_label" />
+
+        <EditText
+            android:id="@+id/computer_price_editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/computer_price_hint"
+            android:paddingBottom="@dimen/activity_field_margin"
+            android:inputType="none"
+            android:singleLine="true" />
+
+    </LinearLayout>
+
+</ScrollView>
+

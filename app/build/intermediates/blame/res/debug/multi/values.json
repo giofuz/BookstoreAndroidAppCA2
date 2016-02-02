@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 57,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 55,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 48,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 44,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 42,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 44,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 48,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 52,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 55,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 53,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 54,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 61,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 62,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 53,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 54,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 59,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 60,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 52,
+                    "endOffset": 1074
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1079,
+                    "endColumn": 53,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "/Users/Gio/Downloads/BookstoreAndroidApp03/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]
